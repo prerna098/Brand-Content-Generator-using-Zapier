@@ -15,8 +15,8 @@ Built as part of the AI/Automation Internship Assignment for Confluencr — an I
 
 | Resource | Link |
 |---|---|
-| Google Form (Try it) | [https://forms.gle/CVNpQdzKUzZgiWJy9] |
-| Sample Output — Netflix | [https://tinyurl.com/2krj68a6] |
+| Google Form (Try it) | https://forms.gle/CVNpQdzKUzZgiWJy9 |
+| Sample Output — Netflix | https://tinyurl.com/2krj68a6 |
 ---
 
 ## Workflow
