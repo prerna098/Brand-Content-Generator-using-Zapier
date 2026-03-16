@@ -7,8 +7,6 @@
 
 Brand Content Generator is an AI-powered no-code automation tool that generates a complete, agency-level Brand Twitter Strategy Report for any brand — delivered directly to the user's email inbox within 2-3 minutes of form submission.
 
-Built as part of the AI/Automation Internship Assignment for Confluencr — an IAMAI & ASCI certified marketing agency.
-
 ---
 
 ## Live Tool
